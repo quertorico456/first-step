@@ -1,0 +1,19 @@
+a{
+	color:black;
+	background-color:#51819D;
+	border: 1px solid white;
+	margin-bottom: 100px;
+
+}
+a:hover{
+	color:blue;
+}
+
+body{
+	background-image:url(images/dsg.jpg);
+	 background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+
+	
+}
